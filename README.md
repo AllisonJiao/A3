@@ -9,3 +9,6 @@ The default T-pose faces towards +z position
 ![q3 image](./images/Question3.2.png)
 ## Question 4
 ![q4 image](./images/Question4.png)
+## Question 5
+Created an animation of yoga tree pose.
+![q5 image](./images/Question5.png)
